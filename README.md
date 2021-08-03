@@ -21,5 +21,5 @@ OR
 https://github.com/rafatfatima-qa/MyFirst-npm-Project
 
 ## Live Link:
-https://rafatfatima-qa.github.io/MyFirst-npm-Project/
+https://rafatfatima-qa.github.io/MyFirst-npm-Project/src/index.html
 
